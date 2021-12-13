@@ -10,6 +10,7 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import 'jquery'
 import '../js/form'
+import '../js/friends'
 
 global.$ = jQuery;
 
